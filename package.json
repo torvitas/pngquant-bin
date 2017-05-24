@@ -47,7 +47,7 @@
   ],
   "dependencies": {
     "bin-build": "^2.2.0",
-    "bin-wrapper": "git@github.com:torvitas/bin-wrapper.git#master",
+    "bin-wrapper": "git://github.com/torvitas/bin-wrapper#master",
     "logalot": "^2.0.0"
   },
   "devDependencies": {
